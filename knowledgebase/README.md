@@ -16,7 +16,7 @@ This extension is an example of how you can incorporate a CRM knowledgebase to g
 4. Open Chrome, allowing mixed content (This example is served over http, not https)
    - From MacOS `open /Applications/Google\ Chrome.app --args --allow-running-insecure-content`
    - From Windows `C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --allow-running-insecure-content`
-5. Navigate to your Quiq _Staging_ site `https://yourTenatn.goquiq.com/app/admin/agent-ui/ui-extensions`
+5. Navigate to your Quiq _Staging_ site `https://yourTenant.goquiq.com/app/admin/agent-ui/ui-extensions`
 6. `Add Section`
 7. Type `Extension`
 8. Click `Extension` and give the extension a name. This is what is displayed to agents
