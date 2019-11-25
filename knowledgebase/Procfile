@@ -1,0 +1,2 @@
+server: NODE_ENV=development node ./devserver.js
+ngrok: NODE_ENV=production node ./ngrok.js
