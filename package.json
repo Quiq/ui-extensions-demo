@@ -1,6 +1,6 @@
 {
   "name": "ui-extensions-demo",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A demo of Quiq's SDK to simplify communications between the Centricient messaging client and any extensions that are added to it.",
   "scripts": {
     "preinstall": "npx npm-force-resolutions",
